@@ -1,7 +1,7 @@
 package constrlstatement;
 
 import java.util.Scanner;
-
+//sachin Dattatray Kadam
 public class Constral {
 	
 
