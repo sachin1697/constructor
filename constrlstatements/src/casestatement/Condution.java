@@ -1,7 +1,7 @@
 package casestatement;
 
 import java.util.Scanner;
-
+//sachin Dattatray kadam
 //import whileloop.Constructor;
 
 public class Condution {
